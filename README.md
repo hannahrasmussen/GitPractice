@@ -8,6 +8,11 @@ Hmm, I wonder if READMEs can do markdown: $2\pi *r = C$
 Ok, .md stands for markdown, so why didn't that work?
 $$2\pi *r = C$$
 
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>
+        
+\\( a^2 = b^2 \\)
+
 <script type="text/x-mathjax-config">
 MathJax.Hub.Config({
 tex2jax: {
